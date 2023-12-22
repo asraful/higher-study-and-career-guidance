@@ -15,3 +15,25 @@ Mohammad A. Halim, PhD
 President and CEO
 The Red-Green Research Centre, Bangladesh
 Email: mahalim@grc-bd.org
+
+
+LOR Example By  Asraful Forhad Chowdhury
+
+
+Dear XXXXX;
+
+I am writing on behalf of XXXXX  in support of his application for the International Master Program. I have known Mr xxxxx as a direct student at the Department of Computer Science and Engineering, University of Chittagong.
+
+Mr. Chowdhury possesses a very strong work ethic which is coupled with intense curiosity in computing science and its application. He is perhaps the most humble man I have ever encountered. Mr. Chowdhury is highly intelligent and very insightful and when he articulates his thoughts it is evident that he has analyzed a problem from many different perspectives.
+
+As a direct teacher, I found Mr Chowdhury with outstanding competency in solving complex logical problems and thinking in scientific matters. Moreover, he is exceptional in competitive programming. He was ranked 1xxxxxxxxxxxxxxxxx as a part of a team. He is an exceptionally hard-working student and always finishes his assigned task before the deadline and waits for the next instructions. Moreover, he achieved CGPA xxxx out of 4.0, which demonstrates his dedication to academia. Just after completing his undergraduate programme he joined as a junior software developer and grew as a professional software engineer as of today. Apart from that, I was his mentor for a third-year software project and his final year thesis was a remarkable one where he proved his excellence by scoring 80 % above.
+
+Mr Chowdhury’s writing skill is very good, as a student all of his term assignments were written properly. He can write a good draft manuscript that requires minor revisions. Mr Chowdhury’s oral communication skills are exceptionally good as evident from his several mentorship sessions with current students at the XXXXXXX. He can conduct his research alone and also in a team. Mr xxxxxx is also involved with several outreach programs to promote science education in Bangladesh. He is one of the best motivated young software engineers/developers I have ever seen.
+
+In summary, Mr xxxxxis an intelligent, diligent and very hard-working student who will make important contributions to any research problem he undertakes. I highly recommend him for admission to your institution. If there are any questions regarding this letter, please feel free to contact me.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx, Computer Science & Engineering, Computer Science & Engineering, University of Chittagong, Chittagong-4331
+Personal Mobile No: xxxxxxx
+Email: xxxxxx[at]cu.ac.bd
+

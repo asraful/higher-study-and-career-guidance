@@ -1,5 +1,13 @@
 # higher-study-and-career-guidance
 
+
+### [Letter of Recommendation Example](https://github.com/asraful/higher-study-and-career-guidance/blob/main/LOR-Example.md)
+
+### [Statement of Purpose Example](https://github.com/asraful/higher-study-and-career-guidance/blob/main/SOAP-Example.md)
+
+
+
+
 # FAQ
 
 ## 1. Why do we need this document repositoty ?

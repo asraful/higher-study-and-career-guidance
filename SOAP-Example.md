@@ -1,4 +1,20 @@
 
+## A motivation letter should have answers to the below questions. However, please think and answer more ! Not only that, cross-check the intended university website for more guildeline.
+
+-  Please give information on your motivation, background and career goals. 
+-  Why did you choose to apply to xxx University and to the programme(s) you are applying to? 
+-  Describe the reasons why you want to study at xxx University and in the Master's programmes that you are applying to.
+-  What areas of study interest you most in the programme(s) you are applying to?
+-  If you are applying to more than one programme, provide an explanation for their order of preference
+-  How would you describe your motivation and commitment towards completing a Master’s degree at xxx University? 
+-  Where and what field have you studied prior to applying to xxx University?
+-  How does your educational background make you a suitable candidate for the programme(s)? 
+-  Specify your qualifications and the extent of your knowledge in the subjects you have taken in your previous studies and with reference to the programme(s) you apply to. 
+-  What goals do you have for your career? 
+
+
+
+
 ## An Example SOAP by Mohammad A. Halim 
 ### Assistant Professor of Chemistry and Biochemistry at Kennesaw State University
 ### Founder and Member of Trustee Board at The Red-Green Research Centre 

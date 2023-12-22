@@ -1,5 +1,6 @@
 
 ## LOR Example By Mohammad A. Halim
+--------------------------------------------------------------------------------
 
 Dear Madam and Sir;
 
@@ -18,6 +19,7 @@ Email: mahalim@grc-bd.org
 
 
 ## LOR Example By  Asraful Forhad Chowdhury
+--------------------------------------------------------------------------------
 
 
 Dear XXXXX;

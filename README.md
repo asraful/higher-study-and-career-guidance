@@ -5,7 +5,7 @@
 
 ### [Statement of Purpose Example](https://github.com/asraful/higher-study-and-career-guidance/blob/main/SOAP-Example.md)
 
-### [IELTS](https://github.com/asraful/higher-study-and-career-guidance/new/main)
+### [IELTS](https://github.com/asraful/higher-study-and-career-guidance/blob/main/IELTS.md)
 
 
 

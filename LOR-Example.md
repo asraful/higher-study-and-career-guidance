@@ -1,5 +1,5 @@
 
-LOR Example By Mohammad A. Halim
+## LOR Example By Mohammad A. Halim
 
 Dear Madam and Sir;
 
@@ -17,7 +17,7 @@ The Red-Green Research Centre, Bangladesh
 Email: mahalim@grc-bd.org
 
 
-LOR Example By  Asraful Forhad Chowdhury
+## LOR Example By  Asraful Forhad Chowdhury
 
 
 Dear XXXXX;
@@ -36,4 +36,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxx, Computer Science & Engineering, Computer Science & Engineering, University of Chittagong, Chittagong-4331
 Personal Mobile No: xxxxxxx
 Email: xxxxxx[at]cu.ac.bd
+
+## LOR Example By  Asraful Forhad Chowdhury
+
+Dear Madam and Sir;
+
+I am writing on behalf of Mr XXXXX in support of his application for the graduate programme in your institution. Mr Xxxxxx is one of my students in the Department of Computer Science and Engineering, University of Chittagong, Bangladesh. I have known him since March 2004. I taught them Data Structure,Object Oriented programming(JAVA) and I was his mentor for different academic projects.
+
+Mr. xxxx achieved a very good result by securing CGPA xxx out of 4.0. This academic success represents his dedication to academic commitment. His result reflects his ability to apply himself to the domains of Computer Science with great aptitude. His performance in exams alone would not quantify his potential. Some of his most glittering qualities lie in problem-solving by computer programming, and professional development in the software industry. Furthermore, he possesses the ability of novel thinking and a clear vision for his future studies. I can undoubtedly recollect him as being one of the top 5% of students I have seen in my teaching career. 
+
+He has great patience in research and professional development with a clear and concise notion about what he is trying to assert. He is innovative, and diligent and can solve problems independently and skillfully. He took part in different inter-university programming contests like the local and ACM ICPC Asia Regional Dhaka Site Contest during his academic years. Shortly, his team became one of the strongest programming teams in the Chittagong region. It reflects his divergent, abstract thinking style, native intelligence and exceptional problem-solving skills, along with good interpersonal skills and leadership qualities. He also has abilities to handle conflicts and work in a team. Moreover, he has experience in enterprise application development with huge data processing capability and high-performance computing for scientific machine learning.
+
+xxxxxxxxxx
+xxxxx, Computer Science & Engineering, Computer Science & Engineering, University of Chittagong, Chittagong-4331
+Personal Mobile No: xxxxxxxx
+Email: xxxxxx [at]cu.ac.bd
+
+
+
+
 

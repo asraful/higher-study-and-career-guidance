@@ -6,7 +6,7 @@ Dear Madam and Sir;
 I am writing on behalf of Mr. X in support of his application for EM3E-4SW International Master Program. I have known Mr. X for well over three year as research supervisor at The Red-Green Research Centre (RGRC).
 Mr. X possesses a very strong work ethic which is coupled to an intense curiosity in chemistry. He is perhaps the most humble man I have ever encountered. Mr. X is highly intelligent and very insightful and when he articulates his thoughts it clearly evident that he has analyzed a problem from many different perspectives.
 In mid-2015, 
-Mr. X successfully completed his training as “undergrad intern” at RGRC.  When he started his research project he did not have any prior knowledge in computational chemistry. Within short time, he was able to learn and perform simulation with Gaussian and related computational chemistry software. He is exceptionally hard working students and always finished his assigned task before the deadline and wait for my next instructions. He completed his first project on ‘Vibrational Circular Dichroism of Chiral Amino Acids’ employing quantum and molecular mechanics theories. He is now writing his draft manuscript to be submitted to a peer-reviewed journal as a full article. His work has been awarded as one of the best undergrad speaker prize in ‘speak up your research’ program at Dhaka, Bangladesh. His research also received the best poster presenter awards at Bangladesh Chemical Society and IEEE student Conferences.  X is one of the best multitask researchers in my lab as he also worked for a collaborative project with Ibn Tofail University, Morocco on inhibition efficiency of some essential oils from olive and traditional plants. For his 4th year research project, he combines molecular dynamics simulation to assess the impact of osmolytes on protein structure with his experimental work under the supervision of Prof. S at Dhaka University. 
+Mr. X completed his training as “undergrad intern” at RGRC.  When he started his research project he did not have any prior knowledge in computational chemistry. Within short time, he was able to learn and perform simulation with Gaussian and related computational chemistry software. He is exceptionally hard working students and always finished his assigned task before the deadline and wait for my next instructions. He completed his first project on ‘Vibrational Circular Dichroism of Chiral Amino Acids’ employing quantum and molecular mechanics theories. He is now writing his draft manuscript to be submitted to a peer-reviewed journal as a full article. His work has been awarded as one of the best undergrad speaker prize in ‘speak up your research’ program at Dhaka, Bangladesh. His research also received the best poster presenter awards at Bangladesh Chemical Society and IEEE student Conferences.  X is one of the best multitask researchers in my lab as he also worked for a collaborative project with Ibn Tofail University, Morocco on inhibition efficiency of some essential oils from olive and traditional plants. For his 4th year research project, he combines molecular dynamics simulation to assess the impact of osmolytes on protein structure with his experimental work under the supervision of Prof. S at Dhaka University. 
 Recently, X has been appointed as research assistant and manager at RGRC based on his outstanding performance. As a research assistant, he supervises second and third year undergrad students and trains them on computational software/research. Undergrad students informed me that X is a very good teacher and explains things in details when they ask for his help. As a lab manager, he maintains an office hour and performs various tasks including organizing meeting, seminars and training, purchasing lab equipment, trouble-shooting software and hardware.
 Mr. X’s writing skill is very good, based on the research article he has written on “Vibrational Circular Dichroism of Chiral Amino Acids”. He can write a good draft manuscript which requires minor revisions. Mr. X’s oral communication skills are exceptionally good as evident from his several award receptions. He can conduct his research alone and also in a team. Mr. X  is also involved with several outreach programs to promote science education in Bangladesh. He is one the best motivated young researcher I have even seen.
 In summary, Mr. X’s is as intelligent, diligent and very hard-working student who will make important contributions to any research problem he undertakes. I highly recommend him for EM3E-4SW International Master Program. If there are any questions regarding this letter, please feel free to contact me.
@@ -51,6 +51,28 @@ xxxxxxxxxx
 xxxxx, Computer Science & Engineering, Computer Science & Engineering, University of Chittagong, Chittagong-4331
 Personal Mobile No: xxxxxxxx
 Email: xxxxxx [at]cu.ac.bd
+
+
+
+## LOR Example By  Asraful Forhad Chowdhury
+
+
+Dear Madam and Sir;
+
+I am writing on behalf of Mr xxxxx in support of his application for the graduate programme in your institution. Mr Asraful Forhad Chowdhury was a student in the Department of Computer Science and Engineering, University of Chittagong, Bangladesh. I have known him since May 2004. He worked with me in the same team on a few research projects, including his final undergraduate thesis.
+
+Mr. xxxx possesses a very strong professional attitude. His teamwork and representation skills are the right fit for academia and life in general. He scored CGPA xxxx out of xxx Most importantly he achieved very good scores in major computer science courses and lab work. His academic result proves his ability to apply himself to the domains of Computer Science. His competitive programming skills are worth mentioning. He represented Chittagong university in ACM ICPC Asia Regional Dhaka Site and also worked as a mentor for other upcoming teams.  
+
+He has great potential in research and professional development with a clear vision. He is motivated and passionate in the field of computer science. He is one of the alumni who grew as a fine software engineer professional over the years with a diverse business domain. That means, he has unique experience in real-world software engineering problems and solid academic background to handle problems of the future.
+
+Communication and writing skills are his strong points. Moreover, I have observed him as a quick learner of any new topic in the shortest possible time.He is not bound in a box, rather able to think from different perspectives also which makes him good in research and critical thinking.
+
+Mr. xxxx was involved in different education and healthcare outreach programmes as a volunteer. I wish him a great future in life and career.
+
+xxxxxxxx
+xxxxxxx, Computer Science & Engineering, Computer Science & Engineering, University of Chittagong, Chittagong-4331
+Personal Mobile No: xxxxx
+Email: xxxxxx[at]cu.ac.bd
 
 
 

@@ -34,6 +34,7 @@
 - [EnglishwithLucy](https://www.youtube.com/@EnglishwithLucy)
 - [English Pronunciation](https://www.youtube.com/watch?v=TNFKG0yvDx4&list=PLD6B222E02447DC07)
 
+### Few Books. However, it is not necessary to use all of those.
 
 
-
+![20220422_142251](https://github.com/asraful/higher-study-and-career-guidance/assets/284564/78bbaa7b-cada-4b74-8cbe-be7ef53cc4bb)
